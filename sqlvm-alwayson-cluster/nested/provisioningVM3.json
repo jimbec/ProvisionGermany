@@ -419,7 +419,7 @@
         },
         "diagnosticsProfile": {
           "bootDiagnostics": {
-            "enabled": "true",
+            "enabled": "false",
             "storageUri": "[concat('http://',variables('diagstorageName'),'.blob.core.windows.net')]"
           }
         }
